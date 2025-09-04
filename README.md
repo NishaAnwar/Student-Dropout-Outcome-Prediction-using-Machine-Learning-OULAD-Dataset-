@@ -1,4 +1,5 @@
 📌 **Project: Student Dropout & Outcome Prediction using Machine Learning (OULAD Dataset)**
+
 🔹 **Overview**
 
 This project focuses on predicting student academic outcomes (Pass, Fail, Withdrawn, Distinction) using demographic information and digital learning activity data from the Open University Learning Analytics Dataset (OULAD).
