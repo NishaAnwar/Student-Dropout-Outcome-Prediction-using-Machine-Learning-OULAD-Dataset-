@@ -1,4 +1,4 @@
-📌 **Project: Student Dropout & Outcome Prediction using Machine Learning (OULAD Dataset)**
+**Project: Student Dropout & Outcome Prediction using Machine Learning (OULAD Dataset)**
 
 🔹 **Overview**
 
@@ -53,7 +53,7 @@ Users can input student demographics and learning activity metrics to get a pred
 
 🔹 **Results**
 
-Model Performance
+Model Performance:
 
 XGBoost achieved the best performance, outperforming the baseline models (Logistic Regression and Random Forest).
 Training Accuracy: 0.896
